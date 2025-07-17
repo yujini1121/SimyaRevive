@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 108a06ecf1ee08b478aa088ca1aefcc3
+  productGUID: 2e04270375a21084f92bd5fde65169c1
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -915,10 +915,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 3bde5ae4-13a2-4dce-95be-87c1c63a6d60
+  cloudProjectId: 7483f165-ea7b-490a-9218-4cc94222f1c4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Simya Revive
+  projectName: Simya Revive 2025-07-17_22-17-39
   organizationId: yujini1121
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
